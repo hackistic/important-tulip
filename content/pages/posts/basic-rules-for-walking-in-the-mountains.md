@@ -1,5 +1,5 @@
 ---
-title: Hackistic 
+title: Hackistic I've Had Enough
 excerpt: >-
   Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
   as such. This specifically refers to difficult walking through dense forest,
