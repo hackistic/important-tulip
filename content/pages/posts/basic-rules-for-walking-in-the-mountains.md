@@ -20,8 +20,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        We have been forced to watch America and the Free World spin into inexorable decline due to a biowarfare attack. We, along with countless others, have been victimized and gaslit by propaganda and psychological warfare operations being conducted by an unelected, unaccountable Elite against the American people and our allies.
       keyName: property
     - name: 'og:image'
       value: images/6.jpg
