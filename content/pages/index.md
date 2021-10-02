@@ -29,7 +29,7 @@ sections:
         style: button
 seo:
   title: Hackistic
-  description: The preview of the Fresh theme
+  description: Seek The Truth
   extra:
     - name: 'og:type'
       value: website
