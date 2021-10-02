@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, My Name is Hackistic,'
     content: |
-      , and I’ve had enough.
+      and I’ve had enough.
   - section_id: about
     type: section_content
     title: Why should you listen to me
