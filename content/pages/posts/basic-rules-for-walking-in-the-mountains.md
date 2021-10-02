@@ -164,3 +164,4 @@ The minimum level of protection against this virus is quite literally a P100 res
 Live SARS-CoV-2 may potentially be detected in sewage outflows, and there may be oral-fecal transmission. During the SARS outbreak in 2003, in the Amoy Gardens incident, hundreds of people were infected by aerosolized fecal matter rising from floor drains in their apartments.
 
 ## COVID-19 Vaccine Dangers:
+
