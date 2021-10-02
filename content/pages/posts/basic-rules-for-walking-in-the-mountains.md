@@ -47,7 +47,21 @@ layout: post
 
 Photo by [David Marcu.](https://unsplash.com/photos/wcHCzgo0_mQ)
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
+We have been forced to watch America and the Free World spin into inexorable decline due to a biowarfare attack. We, along with countless others, have been victimized and gaslit by propaganda and psychological warfare operations being conducted by an unelected, unaccountable Elite against the American people and our allies.
+
+Our mental and physical health have suffered immensely over the course of the past year and a half. We have felt the sting of isolation, lockdown, masking, quarantines, and other completely nonsensical acts of healthcare theater that have done absolutely nothing to protect the health or wellbeing of the public from the ongoing COVID-19 pandemic.
+
+Now, we are watching the medical establishment inject literal poison into millions of our fellow Americans without so much as a fight.
+
+We have been told that we will be fired and denied our livelihoods if we refuse to vaccinate. This was the last straw.
+
+We have spent thousands of hours analyzing leaked footage from Wuhan, scientific papers from primary sources, as well as the paper trails left by the medical establishment.
+
+What we have discovered would shock anyone to their core.
+
+First, we will summarize our findings, and then, we will explain them in detail. References will be placed at the end.
+
+
 
 Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
 
