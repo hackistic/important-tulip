@@ -9,7 +9,9 @@ sections:
       and I’ve had enough.
   - section_id: about
     type: section_content
-    title: Why should you listen to me
+    title: >-
+      Why should you listen to me? Because I am one of the few with enough balls
+      to speak...
     content: >
       It's time for the people to speak up...It's time for the people to do
       something...Are you a sheep or a wolf?
