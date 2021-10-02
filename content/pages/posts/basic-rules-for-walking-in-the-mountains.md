@@ -149,7 +149,7 @@ The opposition to the use of generic Ivermectin is not based in science. It is p
 
 The majority of the public are scientifically illiterate and cannot grasp what any of this even means, thanks to a pathetic educational system that has miseducated them. You would be lucky to find 1 in 100 people who have even the faintest clue what any of this actually means.
 
-## Environmental Impact
+## COVID-19 Transmission:
 
 Natural environments are often fragile, and may be accidentally damaged, especially when a large number of hikers are involved. For example, years of gathering wood can strip an alpine area of valuable nutrients. and some species, such as martens or bighorn sheep, are very sensitive to the presence of humans, especially around mating season. Generally, protected areas such as parks have regulations in place to protect the environment, so as to minimize such impact. Such regulations include banning wood fires, restricting camping to established camp sites, disposing or packing out faecal matter, and imposing a quota on the number of hikers. Many hikers espouse the philosophy of Leave No Trace, following strict practices on dealing with food waste, food packaging, and other impact on the environment.
 
