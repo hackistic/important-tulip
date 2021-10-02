@@ -1,10 +1,7 @@
 ---
 title: Hackistic I've Had Enough
 excerpt: >-
-  Hiking can sometimes involves bushwhacking and hiking is sometimes referred to
-  as such. This specifically refers to difficult walking through dense forest,
-  undergrowth, or bushes, where forward progress requires pushing vegetation
-  aside.
+  We have been forced to watch America and the Free World spin into inexorable decline due to a biowarfare attack. We, along with countless others, have been victimized and gaslit by propaganda and psychological warfare operations being conducted by an unelected, unaccountable Elite against the American people and our allies.
 date: '2021-10-01'
 thumb_img_path: images/6.jpg
 thumb_img_alt: Hikers on the trail
