@@ -335,3 +335,4 @@ To those who are participating in this disgusting farce without any understandin
 To those who may be reading this warning and have full knowledge and understanding of what they are doing and how it will unjustly harm millions of innocent people, we have a few more words.
 
 Damn you to hell. You will not destroy America and the Free World, and you will not have your New World Order. We will make certain of that.
+
