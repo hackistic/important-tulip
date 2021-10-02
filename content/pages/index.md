@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, My Name is Hackistic'
+    title: 'Hi, My Name is Hackistic,'
     content: |
       , and I’ve had enough.
   - section_id: about
