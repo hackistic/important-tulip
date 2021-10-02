@@ -257,3 +257,42 @@ The establishment is cooperating with, and facilitating, the worst criminals in 
 
 ## COVID-19 Vaccine Development and Links to Transhumanism:
 
+This section deals with some more speculative aspects of the pandemic and the medical and scientific establishment’s reaction to it, as well as the disturbing links between scientists involved in vaccine research and scientists whose work involved merging nanotechnology with living cells.
+
+On June 9th, 2020, Charles Lieber, a Harvard nanotechnology researcher with decades of experience, was indicted by the DOJ for fraud. Charles Lieber received millions of dollars in grant money from the US Department of Defense, specifically the military think tanks DARPA, AFOSR, and ONR, as well as NIH and MITRE. His specialty is the use of silicon nanowires in lieu of patch clamp electrodes to monitor and modulate intracellular activity, something he has been working on at Harvard for the past twenty years. He was claimed to have been working on silicon nanowire batteries in China, but none of his colleagues can recall him ever having worked on battery technology in his life; all of his research deals with bionanotechnology, or the blending of nanotech with living cells.
+
+The indictment was over his collaboration with the Wuhan University of Technology. He had double- dipped, against the terms of his DOD grants, and taken money from the PRC’s Thousand Talents plan, a program which the Chinese government uses to bribe Western scientists into sharing proprietary R&D information that can be exploited by the PLA for strategic advantage.
+
+Charles Lieber’s own papers describe the use of silicon nanowires for brain-computer interfaces, or “neural lace” technology. His papers describe how neurons can endocytose whole silicon nanowires or parts of them, monitoring and even modulating neuronal activity.
+
+Charles Lieber was a colleague of Robert Langer. Together, along with Daniel S. Kohane, they worked on a paper describing artificial tissue scaffolds that could be implanted in a human heart to monitor its activity remotely.
+
+Robert Langer, an MIT alumnus and expert in nanotech drug delivery, is one of the co-founders of Moderna. His net worth is now $5.1 billion USD thanks to Moderna’s mRNA-1273 vaccine sales.
+
+Both Charles Lieber and Robert Langer’s bibliographies describe, essentially, techniques for human enhancement, i.e. transhumanism. Klaus Schwab, the founder of the World Economic Forum and the architect behind the so-called “Great Reset”, has long spoken of the “blending of biology and machinery” in his books.
+
+Since these revelations, it has come to the attention of independent researchers that the COVID-19 vaccines may contain reduced graphene oxide nanoparticles. Japanese researchers have also found unexplained contaminants in COVID-19 vaccines.
+
+Graphene oxide is an anxiolytic. It has been shown to reduce the anxiety of laboratory mice when injected into their brains. Indeed, given SARS-CoV-2 Spike’s propensity to compromise the blood-brain barrier and increase its permeability, it is the perfect protein for preparing brain tissue for extravasation of nanoparticles from the bloodstream and into the brain. Graphene is also highly conductive and, in some circumstances, paramagnetic.
+
+ 
+
+In 2013, under the Obama administration, DARPA launched the BRAIN Initiative; BRAIN is an acronym for Brain Research Through Advancing Innovative Neurotechnologies®. This program involves the development of brain-computer interface technologies for the military, particularly non-invasive, injectable systems that cause minimal damage to brain tissue when removed. Supposedly, this technology would be used for healing wounded soldiers with traumatic brain injuries, the direct brain control of prosthetic limbs, and even new abilities such as controlling drones with one’s mind.
+
+Various methods have been proposed for achieving this, including optogenetics, magnetogenetics, ultrasound, implanted electrodes, and transcranial electromagnetic stimulation. In all instances, the goal is to obtain read or read-write capability over neurons, either by stimulating and probing them, or by rendering them especially sensitive to stimulation and probing.
+
+However, the notion of the widespread use of BCI technology, such as Elon Musk’s Neuralink device, raises many concerns over privacy and personal autonomy. Reading from neurons is problematic enough on its own. Wireless brain-computer interfaces may interact with current or future wireless GSM infrastructure, creating neurological data security concerns. A hacker or other malicious actor may compromise such networks to obtain people’s brain data, and then exploit it for nefarious purposes.
+
+However, a device capable of writing to human neurons, not just reading from them, presents another, even more serious set of ethical concerns. A BCI that is capable of altering the contents of one’s mind for innocuous purposes, such as projecting a heads-up display onto their brain’s visual center or sending audio into one’s auditory cortex, would also theoretically be capable of altering mood and personality, or perhaps even subjugating someone’s very will, rendering them utterly obedient to authority. This technology would be a tyrant’s wet dream. Imagine soldiers who would shoot their own countrymen without hesitation, or helpless serfs who are satisfied to live in literal dog kennels.
+
+BCIs could be used to unscrupulously alter perceptions of basic things such as emotions and values, changing people’s thresholds of satiety, happiness, anger, disgust, and so forth. This is not inconsequential. Someone’s entire regime of behaviors could be altered by a BCI, including such things as suppressing their appetite or desire for virtually anything on Maslow’s Hierarchy of Needs.
+
+Anything is possible when you have direct access to someone’s brain and its contents. Someone who is obese could be made to feel disgust at the sight of food. Someone who is involuntarily celibate could have their libido disabled so they don’t even desire sex to begin with. Someone who is racist could be forced to feel delight over cohabiting with people of other races. Someone who is violent could be forced to be meek and submissive. These things might sound good to you if you are a tyrant, but to normal people, the idea of personal autonomy being overridden to such a degree is appalling.
+
+For the wealthy, neural laces would be an unequaled boon, giving them the opportunity to enhance their intelligence with neuroprosthetics (i.e. an “exocortex”), and to deliver irresistible commands directly into the minds of their BCI-augmented servants, even physically or sexually abusive commands that they would normally refuse.
+
+If the vaccine is a method to surreptitiously introduce an injectable BCI into millions of people without their knowledge or consent, then what we are witnessing is the rise of a tyrannical regime unlike anything ever seen before on the face of this planet, one that fully intends to strip every man, woman, and child of our free will.
+
+Our flaws are what make us human. A utopia arrived at by removing people’s free will is not a utopia at all. It is a monomaniacal nightmare. Furthermore, the people who rule over us are Dark Triad types who cannot be trusted with such power. Imagine being beaten and sexually assaulted by a wealthy and powerful psychopath and being forced to smile and laugh over it because your neural lace gives you no choice but to obey your master.
+
+The Elites are forging ahead with this technology without giving people any room to question the social or ethical ramifications, or to establish regulatory frameworks that ensure that our personal agency and autonomy will not be overridden by these devices. They do this because they secretly dream of a future where they can treat you worse than an animal and you cannot even fight back. If this evil plan is allowed to continue, it will spell the end of humanity as we know it.
