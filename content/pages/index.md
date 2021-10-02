@@ -38,7 +38,7 @@ seo:
       value: Hackistic
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Seek The Truth
       keyName: property
     - name: 'og:image'
       value: /images/american-virus-616.jpg
