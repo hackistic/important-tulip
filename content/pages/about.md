@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: I Am A Certified Ethical Hacker
+subtitle: 'I Am A Certified Ethical Hacker '
 img_path: images/about.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
