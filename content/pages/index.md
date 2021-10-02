@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, Hackistic'
+    title: 'Hi, I''m Hackistic'
     content: |
       I Am just a certified ethical hacker.  
   - section_id: about
