@@ -215,3 +215,42 @@ Absolutely nobody should be compelled to take this vaccine under any circumstanc
 
 ## COVID-19 Criminal Conspiracy:
 
+The vaccine and the virus were made by the same people.
+
+In 2014, there was a moratorium on SARS gain-of-function research that lasted until 2017. This research was not halted. Instead, it was outsourced, with the federal grants being laundered through NGOs.
+
+Ralph Baric is a virologist and SARS expert at UNC Chapel Hill in North Carolina. This is who Anthony Fauci was referring to when he insisted, before Congress, that if any gain-of-function research was being conducted, it was being conducted in North Carolina.
+
+This was a lie. Anthony Fauci lied before Congress. A felony.
+
+Ralph Baric and Shi Zhengli are colleagues and have co-written papers together. Ralph Baric mentored Shi Zhengli in his gain-of-function manipulation techniques, particularly serial passage, which results in a virus that appears as if it originated naturally. In other words, deniable bioweapons. Serial passage in humanized hACE2 mice may have produced something like SARS-CoV-2.
+
+The funding for the gain-of-function research being conducted at the Wuhan Institute of Virology came from Peter Daszak. Peter Daszak runs an NGO called EcoHealth Alliance. EcoHealth Alliance received millions of dollars in grant money from the National Institutes of Health/National Institute of Allergy and Infectious Diseases (that is, Anthony Fauci), the Defense Threat Reduction Agency (part of the US Department of Defense), and the United States Agency for International Development. NIH/NIAID contributed a few million dollars, and DTRA and USAID each contributed tens of millions of dollars towards this research. Altogether, it was over a hundred million dollars.
+
+EcoHealth Alliance subcontracted these grants to the Wuhan Institute of Virology, a lab in China with a very questionable safety record and poorly trained staff, so that they could conduct gain-of-function research, not in their fancy P4 lab, but in a level-2 lab where technicians wore nothing more sophisticated than perhaps a hairnet, latex gloves, and a surgical mask, instead of the bubble suits used when working with dangerous viruses. Chinese scientists in Wuhan reported being routinely bitten and urinated on by laboratory animals. Why anyone would outsource this dangerous and delicate work to the People’s Republic of China, a country infamous for industrial accidents and massive explosions that have claimed hundreds of lives, is completely beyond me, unless the aim was to start a pandemic on purpose.
+
+In November of 2019, three technicians at the Wuhan Institute of Virology developed symptoms consistent with a flu-like illness. Anthony Fauci, Peter Daszak, and Ralph Baric knew at once what had happened, because back channels exist between this laboratory and our scientists and officials.
+
+December 12th, 2019, Ralph Baric signed a Material Transfer Agreement (essentially, an NDA) to receive Coronavirus mRNA vaccine-related materials co-owned by Moderna and NIH. It wasn’t until a whole month later, on January 11th, 2020, that China allegedly sent us the sequence to what would become known as SARS-CoV-2. Moderna claims, rather absurdly, that they developed a working vaccine from this sequence in under 48 hours.
+
+Stephane Bancel, the current CEO of Moderna, was formerly the CEO of bioMerieux, a French multinational corporation specializing in medical diagnostic tech, founded by one Alain Merieux. Alain Merieux was one of the individuals who was instrumental in the construction of the Wuhan Institute of Virology’s P4 lab.
+
+The sequence given as the closest relative to SARS-CoV-2, RaTG13, is not a real virus. It is a forgery. It was made by entering a gene sequence by hand into a database, to create a cover story for the existence of SARS-CoV-2, which is very likely a gain-of-function chimera produced at the Wuhan Institute of Virology and was either leaked by accident or intentionally released.
+
+The animal reservoir of SARS-CoV-2 has never been found.
+
+ 
+
+This is not a conspiracy “theory”. It is an actual criminal conspiracy, in which people connected to the development of Moderna’s mRNA-1273 are directly connected to the Wuhan Institute of Virology and their gain-of-function research by very few degrees of separation, if any. The paper trail is well- established.
+
+The lab-leak theory has been suppressed because pulling that thread leads one to inevitably conclude that there is enough circumstantial evidence to link Moderna, the NIH, the WIV, and both the vaccine and the virus’s creation together. In a sane country, this would have immediately led to the world’s biggest RICO and mass murder case. Anthony Fauci, Peter Daszak, Ralph Baric, Shi Zhengli, and Stephane Bancel, and their accomplices, would have been indicted and prosecuted to the fullest extent of the law. Instead, billions of our tax dollars were awarded to the perpetrators.
+
+The FBI raided Allure Medical in Shelby Township north of Detroit for billing insurance for “fraudulent COVID-19 cures”. The treatment they were using? Intravenous Vitamin C. An antioxidant. Which, as described above, is an entirely valid treatment for COVID-19-induced sepsis, and indeed, is now part of the MATH+ protocol advanced by Dr. Paul E. Marik.
+
+The FDA banned ranitidine (Zantac) due to supposed NDMA (N-nitrosodimethylamine) contamination. Ranitidine is not only an H2 blocker used as antacid, but also has a powerful antioxidant effect, scavenging hydroxyl radicals. This gives it utility in treating COVID-19.
+
+The FDA also attempted to take N-acetylcysteine, a harmless amino acid supplement and antioxidant, off the shelves, compelling Amazon to remove it from their online storefront.
+
+This leaves us with a chilling question: did the FDA knowingly suppress antioxidants useful for treating COVID-19 sepsis as part of a criminal conspiracy against the American public?
+
+The establishment is cooperating with, and facilitating, the worst criminals in human history, and are actively suppressing non-vaccine treatments and therapies in order to compel us to inject these criminals’ products into our bodies. This is absolutely unacceptable.
