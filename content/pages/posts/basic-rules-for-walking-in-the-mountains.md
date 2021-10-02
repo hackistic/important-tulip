@@ -254,3 +254,4 @@ The FDA also attempted to take N-acetylcysteine, a harmless amino acid supplemen
 This leaves us with a chilling question: did the FDA knowingly suppress antioxidants useful for treating COVID-19 sepsis as part of a criminal conspiracy against the American public?
 
 The establishment is cooperating with, and facilitating, the worst criminals in human history, and are actively suppressing non-vaccine treatments and therapies in order to compel us to inject these criminals’ products into our bodies. This is absolutely unacceptable.
+
