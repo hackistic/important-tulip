@@ -151,6 +151,15 @@ The majority of the public are scientifically illiterate and cannot grasp what a
 
 ## COVID-19 Transmission:
 
-Natural environments are often fragile, and may be accidentally damaged, especially when a large number of hikers are involved. For example, years of gathering wood can strip an alpine area of valuable nutrients. and some species, such as martens or bighorn sheep, are very sensitive to the presence of humans, especially around mating season. Generally, protected areas such as parks have regulations in place to protect the environment, so as to minimize such impact. Such regulations include banning wood fires, restricting camping to established camp sites, disposing or packing out faecal matter, and imposing a quota on the number of hikers. Many hikers espouse the philosophy of Leave No Trace, following strict practices on dealing with food waste, food packaging, and other impact on the environment.
+COVID-19 is airborne. The WHO carried water for China by claiming that the virus was only droplet- borne. Our own CDC absurdly claimed that it was mostly transmitted by fomite-to-face contact, which, given its rapid spread from Wuhan to the rest of the world, would have been physically impossible.
 
-Human waste is often a major source of environmental impact from hiking, and can contaminate the watershed and make other hikers ill. 'Catholes' dug 10 to 25 cm (4 to 10 inches) deep, depending on local soil composition and covered after use, at least 60 m (200 feet) away from water sources and trails, are recommended to reduce the risk of bacterial contamination. [Source](https://en.wikipedia.org/wiki/Hiking)
+The ridiculous belief in fomite-to-face being a primary mode of transmission led to the use of surface disinfection protocols that wasted time, energy, productivity, and disinfectant.
+
+The 6-foot guidelines are absolutely useless. The minimum safe distance to protect oneself from an aerosolized virus is to be 15+ feet away from an infected person, no closer. Realistically, no public transit is safe.
+
+Surgical masks do not protect you from aerosols. The virus is too small and the filter media has too large of gaps to filter it out. They may catch respiratory droplets and keep the virus from being expelled by someone who is sick, but they do not filter a cloud of infectious aerosols if someone were to walk into said cloud.
+
+The minimum level of protection against this virus is quite literally a P100 respirator, a PAPR/CAPR, or a 40mm NATO CBRN respirator, ideally paired with a full-body tyvek or tychem suit, gloves, and booties, with all the holes and gaps taped.
+
+Live SARS-CoV-2 may potentially be detected in sewage outflows, and there may be oral-fecal transmission. During the SARS outbreak in 2003, in the Amoy Gardens incident, hundreds of people were infected by aerosolized fecal matter rising from floor drains in their apartments.
+
