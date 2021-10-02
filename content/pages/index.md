@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, My Name is Hackistic'
     content: |
-      A Certified Ethical Hacker.  A Truth Seeker.  Anonymous 
+      , and I’ve had enough.
   - section_id: about
     type: section_content
     title: Why should you listen to me
