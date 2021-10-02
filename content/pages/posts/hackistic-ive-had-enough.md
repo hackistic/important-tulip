@@ -104,8 +104,7 @@ First, we will summarize our findings, and then, we will explain them in detail.
 
 <!---->
 
-*
-    *   Independent researchers have discovered mysterious nanoparticles inside the vaccines that are not supposed to be present.
+*   Independent researchers have discovered mysterious nanoparticles inside the vaccines that are not supposed to be present.
 
 <!---->
 
