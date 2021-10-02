@@ -1,16 +1,24 @@
 ---
 title: Hackistic I've Had Enough
 excerpt: >-
-  We have been forced to watch America and the Free World spin into inexorable decline due to a biowarfare attack. We, along with countless others, have been victimized and gaslit by propaganda and psychological warfare operations being conducted by an unelected, unaccountable Elite against the American people and our allies.
+  We have been forced to watch America and the Free World spin into inexorable
+  decline due to a biowarfare attack. We, along with countless others, have been
+  victimized and gaslit by propaganda and psychological warfare operations being
+  conducted by an unelected, unaccountable Elite against the American people and
+  our allies.
 date: '2021-10-01'
 thumb_img_path: images/6.jpg
 thumb_img_alt: Hikers on the trail
-content_img_path: images/6.jpg
+content_img_path: /images/american-virus-616.jpg
 content_img_alt: Hikers on the trail
 seo:
   title: Hackistic I've Had Enough
   description: >-
-    We have been forced to watch America and the Free World spin into inexorable decline due to a biowarfare attack. We, along with countless others, have been victimized and gaslit by propaganda and psychological warfare operations being conducted by an unelected, unaccountable Elite against the American people and our allies.
+    We have been forced to watch America and the Free World spin into inexorable
+    decline due to a biowarfare attack. We, along with countless others, have
+    been victimized and gaslit by propaganda and psychological warfare
+    operations being conducted by an unelected, unaccountable Elite against the
+    American people and our allies.
   extra:
     - name: 'og:type'
       value: article
@@ -20,7 +28,11 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        We have been forced to watch America and the Free World spin into inexorable decline due to a biowarfare attack. We, along with countless others, have been victimized and gaslit by propaganda and psychological warfare operations being conducted by an unelected, unaccountable Elite against the American people and our allies.
+        We have been forced to watch America and the Free World spin into
+        inexorable decline due to a biowarfare attack. We, along with countless
+        others, have been victimized and gaslit by propaganda and psychological
+        warfare operations being conducted by an unelected, unaccountable Elite
+        against the American people and our allies.
       keyName: property
     - name: 'og:image'
       value: images/6.jpg
@@ -32,7 +44,11 @@ seo:
       value: Hackistic I've Had Enough
     - name: 'twitter:description'
       value: >-
-        We have been forced to watch America and the Free World spin into inexorable decline due to a biowarfare attack. We, along with countless others, have been victimized and gaslit by propaganda and psychological warfare operations being conducted by an unelected, unaccountable Elite against the American people and our allies.
+        We have been forced to watch America and the Free World spin into
+        inexorable decline due to a biowarfare attack. We, along with countless
+        others, have been victimized and gaslit by propaganda and psychological
+        warfare operations being conducted by an unelected, unaccountable Elite
+        against the American people and our allies.
     - name: 'twitter:image'
       value: images/6.jpg
       relativeUrl: true
