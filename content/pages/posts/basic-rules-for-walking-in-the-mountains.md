@@ -11,7 +11,7 @@ thumb_img_alt: Hikers on the trail
 content_img_path: images/6.jpg
 content_img_alt: Hikers on the trail
 seo:
-  title: Hackistic
+  title: Hackistic I've Had Enough
   description: >-
     Hiking refers to difficult walking through dense forest, undergrowth, or
     bushes.
@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Hackistic
+      value: Hackistic I've Had Enough
       keyName: property
     - name: 'og:description'
       value: >-
@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Hackistic
+      value: Hackistic I've Had Enough
     - name: 'twitter:description'
       value: >-
         Hiking refers to difficult walking through dense forest, undergrowth, or
