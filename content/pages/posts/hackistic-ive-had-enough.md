@@ -54,12 +54,11 @@ seo:
       relativeUrl: true
 layout: post
 ---
+Photo by[ Asicentral](https://www.asicentral.com/media/31965/american-virus-616.jpg).
 
-Photo by [David Marcu.](https://unsplash.com/photos/wcHCzgo0_mQ)
+We have been forced to watch America and the Free World spin into inexorable decline due to a bio-warfare attack. We, along with countless others, have been victimized and gaslit by propaganda and psychological warfare operations being conducted by an unelected, unaccountable Elite against the American people and our allies.
 
-We have been forced to watch America and the Free World spin into inexorable decline due to a biowarfare attack. We, along with countless others, have been victimized and gaslit by propaganda and psychological warfare operations being conducted by an unelected, unaccountable Elite against the American people and our allies.
-
-Our mental and physical health have suffered immensely over the course of the past year and a half. We have felt the sting of isolation, lockdown, masking, quarantines, and other completely nonsensical acts of healthcare theater that have done absolutely nothing to protect the health or wellbeing of the public from the ongoing COVID-19 pandemic.
+Our mental and physical health have suffered immensely over the course of the past year and a half. We have felt the sting of isolation, lock-down, masking, quarantines, and other completely nonsensical acts of healthcare theater that have done absolutely nothing to protect the health or well-being of the public from the ongoing COVID-19 pandemic.
 
 Now, we are watching the medical establishment inject literal poison into millions of our fellow Americans without so much as a fight.
 
@@ -70,7 +69,6 @@ We have spent thousands of hours analyzing leaked footage from Wuhan, scientific
 What we have discovered would shock anyone to their core.
 
 First, we will summarize our findings, and then, we will explain them in detail. References will be placed at the end.
-
 
 ## Summary:
 
@@ -84,8 +82,6 @@ First, we will summarize our findings, and then, we will explain them in detail.
 • COVID-19 vaccine researchers are directly linked to scientists involved in brain-computer interface (“neural lace”) tech, one of whom was indicted for taking grant money from China.
 • Independent researchers have discovered mysterious nanoparticles inside the vaccines that are not supposed to be present.
 • The entire pandemic is being used as an excuse for a vast political and economic transformation of Western society that will enrich the already rich and turn the rest of us into serfs and untouchables.
-
-
 
 ## COVID-19 Pathophysiology and Treatments:
 
@@ -125,8 +121,6 @@ Neutrophils have a nasty trick. They can also eject these enzymes into the extra
 
 Hypochlorous acid building up in the bloodstream begins to bleach the iron out of heme and compete for O2 binding sites. Red blood cells lose the ability to transport oxygen, causing the sufferer to turn blue in the face. Unliganded iron, hydrogen peroxide, and superoxide in the bloodstream undergo the Haber- Weiss and Fenton reactions, producing extremely reactive hydroxyl radicals that violently strip electrons from surrounding fats and DNA, oxidizing them severely.
 
- 
-
 This condition is not unknown to medical science. The actual name for all of this is acute sepsis.
 
 We know this is happening in COVID-19 because people who have died of the disease have noticeable ferroptosis signatures in their tissues, as well as various other oxidative stress markers such as nitrotyrosine, 4-HNE, and malondialdehyde.
@@ -140,8 +134,6 @@ Scientists who know anything about pulmonary neutrophilia, ARDS, and redox biolo
 Because of the way they are constructed, Randomized Control Trials will never show any benefit for any antiviral against COVID-19. Not Remdesivir, not Kaletra, not HCQ, and not Ivermectin. The reason for this is simple; for the patients that they have recruited for these studies, such as Oxford’s ludicrous RECOVERY study, the intervention is too late to have any positive effect.
 
 The clinical course of COVID-19 is such that by the time most people seek medical attention for hypoxia, their viral load has already tapered off to almost nothing. If someone is about 10 days post-exposure and has already been symptomatic for five days, there is hardly any virus left in their bodies, only cellular damage and derangement that has initiated a hyperinflammatory response. It is from this group that the clinical trials for antivirals have recruited, pretty much exclusively.
-
- 
 
 In these trials, they give antivirals to severely ill patients who have no virus in their bodies, only a delayed hyperinflammatory response, and then absurdly claim that antivirals have no utility in treating or preventing COVID-19. These clinical trials do not recruit people who are pre-symptomatic. They do not test pre-exposure or post-exposure prophylaxis.
 
@@ -181,13 +173,11 @@ All of the COVID-19 vaccines currently in use have undergone minimal testing, wi
 
 Some of these so-called “vaccines” utilize an untested new technology that has never been used in vaccines before. Traditional vaccines use weakened or killed virus to stimulate an immune response. The Moderna and Pfizer-BioNTech vaccines do not. They are purported to consist of an intramuscular shot containing a suspension of lipid nanoparticles filled with messenger RNA. The way they generate an immune response is by fusing with cells in a vaccine recipient’s shoulder, undergoing endocytosis, releasing their mRNA cargo into those cells, and then utilizing the ribosomes in those cells to synthesize modified SARS-CoV-2 Spike proteins in-situ.
 
-These modified Spike proteins then migrate to the surface of the cell, where they are anchored in place by a transmembrane domain. The adaptive immune system detects the non-human viral protein being expressed by these cells, and then forms antibodies against that protein. This is purported to confer protection against the virus, by training the adaptive immune system to recognize and produce antibodies against the Spike on the actual virus. The J&J and AstraZeneca vaccines do something similar, but use an adenovirus vector for genetic material delivery instead of a lipid nanoparticle. These vaccines were produced or validated with the aid of fetal cell lines HEK-293 and PER.C6, which people with certain religious convictions may object strongly to.
+These modified Spike proteins then migrate to the surface of the cell, where they are anchored in place by a transmembrane domain. The adaptive immune system detects the non-human viral protein being expressed by these cells, and then forms antibodies against that protein. This is purported to confer protection against the virus, by training the adaptive immune system to recognize and produce antibodies against the Spike on the actual virus. The J\&J and AstraZeneca vaccines do something similar, but use an adenovirus vector for genetic material delivery instead of a lipid nanoparticle. These vaccines were produced or validated with the aid of fetal cell lines HEK-293 and PER.C6, which people with certain religious convictions may object strongly to.
 
 SARS-CoV-2 Spike is a highly pathogenic protein on its own. It is impossible to overstate the danger presented by introducing this protein into the human body.
 
 It is claimed by vaccine manufacturers that the vaccine remains in cells in the shoulder, and that SARS- CoV-2 Spike produced and expressed by these cells from the vaccine’s genetic material is harmless and inert, thanks to the insertion of prolines in the Spike sequence to stabilize it in the prefusion conformation, preventing the Spike from becoming active and fusing with other cells. However, a pharmacokinetic study from Japan showed that the lipid nanoparticles and mRNA from the Pfizer vaccine did not stay in the shoulder, and in fact bioaccumulated in many different organs, including the reproductive organs and adrenal glands, meaning that modified Spike is being expressed quite literally all over the place. These lipid nanoparticles may trigger anaphylaxis in an unlucky few, but far more concerning is the unregulated expression of Spike in various somatic cell lines far from the injection site and the unknown consequences of that.
-
- 
 
 Messenger RNA is normally consumed right after it is produced in the body, being translated into a protein by a ribosome. COVID-19 vaccine mRNA is produced outside the body, long before a ribosome translates it. In the meantime, it could accumulate damage if inadequately preserved. When a ribosome attempts to translate a damaged strand of mRNA, it can become stalled. When this happens, the ribosome becomes useless for translating proteins because it now has a piece of mRNA stuck in it, like a lace card in an old punch card reader. The whole thing has to be cleaned up and new ribosomes synthesized to replace it. In cells with low ribosome turnover, like nerve cells, this can lead to reduced protein synthesis, cytopathic effects, and neuropathies.
 
@@ -210,8 +200,6 @@ SARS-CoV-2, like other betacoronaviruses, may have Dengue-like ADE, or antibody-
 In ADE, antibodies from a previous infection become non-neutralizing due to mutations in the virus’s proteins. These non-neutralizing antibodies then act as trojan horses, allowing live, active virus to be pulled into macrophages through their Fc receptor pathways, allowing the virus to infect immune cells that it would not have been able to infect before. This has been known to happen with Dengue Fever; when someone gets sick with Dengue, recovers, and then contracts a different strain, they can get very, very ill.
 
 If someone is vaccinated with mRNA based on the Spike from the initial Wuhan strain of SARS-CoV-2, and then they become infected with a future, mutated strain of the virus, they may become severely ill. In other words, it is possible for vaccines to sensitize someone to disease.
-
- 
 
 There is a precedent for this in recent history. Sanofi’s Dengvaxia vaccine for Dengue failed because it caused immune sensitization in people whose immune systems were Dengue-naive.
 
@@ -249,8 +237,6 @@ The sequence given as the closest relative to SARS-CoV-2, RaTG13, is not a real 
 
 The animal reservoir of SARS-CoV-2 has never been found.
 
- 
-
 This is not a conspiracy “theory”. It is an actual criminal conspiracy, in which people connected to the development of Moderna’s mRNA-1273 are directly connected to the Wuhan Institute of Virology and their gain-of-function research by very few degrees of separation, if any. The paper trail is well- established.
 
 The lab-leak theory has been suppressed because pulling that thread leads one to inevitably conclude that there is enough circumstantial evidence to link Moderna, the NIH, the WIV, and both the vaccine and the virus’s creation together. In a sane country, this would have immediately led to the world’s biggest RICO and mass murder case. Anthony Fauci, Peter Daszak, Ralph Baric, Shi Zhengli, and Stephane Bancel, and their accomplices, would have been indicted and prosecuted to the fullest extent of the law. Instead, billions of our tax dollars were awarded to the perpetrators.
@@ -271,7 +257,7 @@ This section deals with some more speculative aspects of the pandemic and the me
 
 On June 9th, 2020, Charles Lieber, a Harvard nanotechnology researcher with decades of experience, was indicted by the DOJ for fraud. Charles Lieber received millions of dollars in grant money from the US Department of Defense, specifically the military think tanks DARPA, AFOSR, and ONR, as well as NIH and MITRE. His specialty is the use of silicon nanowires in lieu of patch clamp electrodes to monitor and modulate intracellular activity, something he has been working on at Harvard for the past twenty years. He was claimed to have been working on silicon nanowire batteries in China, but none of his colleagues can recall him ever having worked on battery technology in his life; all of his research deals with bionanotechnology, or the blending of nanotech with living cells.
 
-The indictment was over his collaboration with the Wuhan University of Technology. He had double- dipped, against the terms of his DOD grants, and taken money from the PRC’s Thousand Talents plan, a program which the Chinese government uses to bribe Western scientists into sharing proprietary R&D information that can be exploited by the PLA for strategic advantage.
+The indictment was over his collaboration with the Wuhan University of Technology. He had double- dipped, against the terms of his DOD grants, and taken money from the PRC’s Thousand Talents plan, a program which the Chinese government uses to bribe Western scientists into sharing proprietary R\&D information that can be exploited by the PLA for strategic advantage.
 
 Charles Lieber’s own papers describe the use of silicon nanowires for brain-computer interfaces, or “neural lace” technology. His papers describe how neurons can endocytose whole silicon nanowires or parts of them, monitoring and even modulating neuronal activity.
 
@@ -284,8 +270,6 @@ Both Charles Lieber and Robert Langer’s bibliographies describe, essentially, 
 Since these revelations, it has come to the attention of independent researchers that the COVID-19 vaccines may contain reduced graphene oxide nanoparticles. Japanese researchers have also found unexplained contaminants in COVID-19 vaccines.
 
 Graphene oxide is an anxiolytic. It has been shown to reduce the anxiety of laboratory mice when injected into their brains. Indeed, given SARS-CoV-2 Spike’s propensity to compromise the blood-brain barrier and increase its permeability, it is the perfect protein for preparing brain tissue for extravasation of nanoparticles from the bloodstream and into the brain. Graphene is also highly conductive and, in some circumstances, paramagnetic.
-
- 
 
 In 2013, under the Obama administration, DARPA launched the BRAIN Initiative; BRAIN is an acronym for Brain Research Through Advancing Innovative Neurotechnologies®. This program involves the development of brain-computer interface technologies for the military, particularly non-invasive, injectable systems that cause minimal damage to brain tissue when removed. Supposedly, this technology would be used for healing wounded soldiers with traumatic brain injuries, the direct brain control of prosthetic limbs, and even new abilities such as controlling drones with one’s mind.
 
@@ -640,7 +624,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0300483X00002316?via%3Dih
 
 https://www.sciencedirect.com/topics/chemistry/fenton-reaction
 
-https://www.researchgate.net/figure/Fenton-and-Haber-Weiss-reactions-are-a-source-of-oxidative- stress-The-generation-of_fig1_330729897
+https://www.researchgate.net/figure/Fenton-and-Haber-Weiss-reactions-are-a-source-of-oxidative- stress-The-generation-of_fig1\_330729897
 
 This condition is not unknown to medical science. The actual name for all of this is acute sepsis (but without the traditional hallmarks of sepsis, like shock):
 
@@ -660,7 +644,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7264936/
 
 https://www.sciencedirect.com/science/article/pii/S2213231721001300
 
-https://www.researchgate.net/publication/354129433_Preliminary_Findings_on_the_Association_of_the_Lipid_Peroxidation_Product_4-Hydroxynonenal_with_the_Lethal_Outcome_of_Aggressive_COVID- 19
+https://www.researchgate.net/publication/354129433\_Preliminary_Findings_on_the_Association_of_the_Lipid_Peroxidation_Product\_4-Hydroxynonenal_with_the_Lethal_Outcome_of_Aggressive_COVID- 19
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8180845/
 
@@ -671,8 +655,6 @@ When you intubate someone with this condition, you are setting off a free radica
 https://www.nature.com/articles/pr2009174
 
 The correct treatment for severe COVID-19 related sepsis is non-invasive ventilation, steroids, and antioxidant infusions:
-
-
 
 https://journals.lww.com/ccmjournal/Abstract/2007/09001/Antioxidant_supplementation_in_sepsis_and_systemic.25.aspx
 
@@ -700,7 +682,7 @@ https://link.springer.com/article/10.1007/s10787-020-00715-5
 
 Scientists who know anything about pulmonary neutrophilia, ARDS, and redox biology have known or surmised much of this since March 2020:
 
-https://www.researchgate.net/post/NADPH_oxidase_Covid-19_Oxygen_treatment
+https://www.researchgate.net/post/NADPH_oxidase_Covid-19\_Oxygen_treatment
 
 In April 2020, Swiss scientists confirmed that COVID-19 was a systemic vascular endotheliitis:
 
@@ -714,7 +696,7 @@ They also know that sepsis can be effectively treated with antioxidants:
 
 https://jtd.amegroups.com/article/view/34870/html
 
-https://www.evms.edu/about_evms/administrative_offices/marketing_communications/publications/issue_9_4/has-sepsis-met-its-match.php
+https://www.evms.edu/about_evms/administrative_offices/marketing_communications/publications/issue\_9\_4/has-sepsis-met-its-match.php
 
 None of this information is particularly new, and yet, for the most part, it has not been acted upon. Doctors continue to use damaging intubation techniques with high PEEP settings despite high lung compliance and poor oxygenation, killing an untold number of critically ill patients with medical malpractice:
 
@@ -741,8 +723,6 @@ https://www.nejm.org/doi/full/10.1056/NEJMoa2022926
 https://pubmed.ncbi.nlm.nih.gov/34318930/
 
 India went against the instructions of the WHO and mandated the prophylactic usage of Ivermectin. They have almost completely eradicated COVID-19:
-
-
 
 https://ivmmeta.com
 
@@ -790,8 +770,6 @@ The 6-foot guidelines are absolutely useless. The minimum safe distance to prote
 
 https://www.medrxiv.org/content/10.1101/2020.08.03.20167395v1
 
-
-
 Surgical masks do not protect you from aerosols. The virus is too small and the filter media has too large of gaps to filter it out. They may catch respiratory droplets and keep the virus from being expelled by someone who is sick, but they do not filter a cloud of infectious aerosols if someone were to walk into said cloud:
 
 https://ajicjournal.org/retrieve/pii/S0196655305801439
@@ -801,8 +779,6 @@ The minimum level of protection against this virus is quite literally a P100 res
 https://www.epa.gov/sciencematters/epa-researchers-test-effectiveness-face-masks-disinfection- methods-against-covid-19
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7409952/
-
-
 
 Live SARS-CoV-2 may potentially be detected in sewage outflows, and there may be oral-fecal transmission:
 
@@ -826,11 +802,11 @@ The vaccines for COVID-19 are not sterilizing and do not prevent infection or tr
 
 https://www.healthline.com/health-news/leaky-vaccines-can-produce-stronger-versions-of-viruses- 072715
 
-https://www.realclearscience.com/articles/2021/08/23/lets_stop_pretending_about_the_covid- 19_vaccines_791050.html
+https://www.realclearscience.com/articles/2021/08/23/lets_stop_pretending_about_the_covid- 19\_vaccines\_791050.html
 
 https://www.cdc.gov/media/releases/2021/s0730-mmwr-covid-19.html
 
-https://www.businessinsider.com/cdc-fully-vaccinated-new-guidelines-wear-masks-indoors-delta-2021- 7?utm_source=yahoo.com&utm_medium=referral
+https://www.businessinsider.com/cdc-fully-vaccinated-new-guidelines-wear-masks-indoors-delta-2021- 7?utm_source=yahoo.com\&utm_medium=referral
 
 All of the COVID-19 vaccines currently in use have undergone minimal testing, with highly accelerated clinical trials. Though they appear to limit severe illness, the long-term safety profile of these vaccines remains unknown:
 
@@ -856,13 +832,11 @@ https://coronavirus.dc.gov/sites/default/files/dc/sites/coronavirus/page_content
 
 These vaccines were produced or validated with the aid of fetal cell lines HEK-293 and PER.C6, which people with certain religious convictions may object strongly to:
 
-https://www.health.nd.gov/sites/www/files/documents/COVID%20Vaccine%20Page/COVID- 19_Vaccine_Fetal_Cell_Handout.pdf
-
-
+https://www.health.nd.gov/sites/www/files/documents/COVID%20Vaccine%20Page/COVID- 19\_Vaccine_Fetal_Cell_Handout.pdf
 
 SARS-CoV-2 Spike is a highly pathogenic protein on its own. It is impossible to overstate the danger presented by introducing this protein into the human body:
 
-https://mcusercontent.com/22e41db63deaf4a84be439c0f/files/6a33980b-683f-4ee4-67d4- cc98dc7fcd37/20210601_Guide_to_COVID_19_vaccines_for_parents.pdf
+https://mcusercontent.com/22e41db63deaf4a84be439c0f/files/6a33980b-683f-4ee4-67d4- cc98dc7fcd37/20210601\_Guide_to_COVID\_19\_vaccines_for_parents.pdf
 
 https://rightsfreedoms.wordpress.com/2021/06/16/researcher-we-made-a-big-mistake-on-covid-19- vaccine/
 
@@ -908,11 +882,9 @@ https://www.researchsquare.com/article/rs-612103/v2
 
 Those who have been immunized with COVID-19 vaccines have developed blood clots, myocarditis, Guillain-Barre Syndrome, Bell’s Palsy, and multiple sclerosis flares, indicating that the vaccine promotes autoimmune reactions against healthy tissue:
 
-
-
 https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-july-13-2021
 
-https://www.medpagetoday.com/infectiousdisease/covid19vaccine/94061?xid=nl_mpt_DHE_2021-08- 17
+https://www.medpagetoday.com/infectiousdisease/covid19vaccine/94061?xid=nl_mpt_DHE\_2021-08- 17
 
 SARS-CoV-2 Spike does not only bind to ACE2. It was suspected to have regions that bind to basigin, integrins, neuropilin-1, and bacterial lipopolysaccharides as well:
 
@@ -1010,8 +982,6 @@ https://rightsfreedoms.wordpress.com/2021/08/13/mit-harvard-study-suggests-mrna-
 
 The Injection Fraud – It’s Not a Vaccine
 
-
-
 The vaccine and the virus were made by the same people. In 2014, there was a moratorium on SARS gain-of-function research that lasted until 2017:
 
 https://www.phe.gov/s3/dualuse/documents/gain-of-function.pdf
@@ -1022,10 +992,6 @@ https://www.nih.gov/about-nih/who-we-are/nih-director/statements/nih-lifts-fundi
 
 Ralph Baric is a virologist and SARS expert at UNC Chapel Hill in North Carolina. This is who Anthony Fauci was referring to when he insisted, before Congress, that if any gain-of-function research was being conducted, it was being conducted in North Carolina:
 
-
-
-
-
 Ralph Baric and Shi Zhengli are colleagues and have co-written papers together:
 
 https://www.nature.com/articles/nm.3985/
@@ -1033,8 +999,6 @@ https://www.nature.com/articles/nm.3985/
 Ralph Baric mentored Shi Zhengli in his gain-of-function manipulation techniques, particularly serial passage, which results in a virus that appears as if it originated naturally. In other words, deniable bioweapons. Serial passage in humanized hACE2 mice may have produced something like SARS-CoV-2:
 
 https://www.technologyreview.com/2021/06/29/1027290/gain-of-function-risky-bat-virus-engineering- links-america-to-wuhan/
-
-
 
 https://www.paul.senate.gov/newsweek-op-ed-congress-must-pursue-answers-about-origin-covid-19
 
@@ -1052,7 +1016,7 @@ https://nationalfile.com/bombshell-fauci-kept-funding-peter-daszaks-wuhan-gain-o
 
 EcoHealth Alliance received millions of dollars in grant money from the National Institutes of Health/National Institute of Allergy and Infectious Diseases (that is, Anthony Fauci), the Defense Threat Reduction Agency (part of the US Department of Defense), and the United States Agency for International Development. NIH/NIAID contributed a few million dollars, and DTRA and USAID each contributed tens of millions of dollars towards this research. Altogether, it was over a hundred million dollars:
 
-https://www.independentsciencenews.org/wp-content/uploads/2020/12/EcoHealth-Funding-as-of- 01_10_2020-Fed.-Grants-Contracts.pdf
+https://www.independentsciencenews.org/wp-content/uploads/2020/12/EcoHealth-Funding-as-of- 01\_10\_2020-Fed.-Grants-Contracts.pdf
 
 EcoHealth Alliance subcontracted these grants to the Wuhan Institute of Virology, a lab in China with a very questionable safety record and poorly-trained staff, so that they could conduct gain-of-function research:
 
@@ -1060,11 +1024,7 @@ https://www.algora.com/Algora_blog/2021/09/22/ecohealth-alliance-darpa-toyed-wit
 
 https://nypost.com/2021/07/01/pentagon-gave-millions-to-ecohealth-alliance-for-wuhan-lab/
 
-
-
-
-
-https://scholar.harvard.edu/files/kleelerner/files/20200414_wapo_- _state_department_cables_warned_of_safety_issues_at_wuhan_lab_studying_bat_coronaviruses_- _the_washington_post.pdf
+https://scholar.harvard.edu/files/kleelerner/files/20200414\_wapo\_- *state_department_cables_warned_of_safety_issues_at_wuhan_lab_studying_bat_coronaviruses*- \_the_washington_post.pdf
 
 https://www.businessinsider.com/us-officials-raised-alarms-about-safety-issues-in-wuhan-lab-report- 2020-4?op=1
 
@@ -1072,7 +1032,7 @@ Chinese scientists in Wuhan reported being routinely bitten and urinated on by l
 
 https://img-prod.tgcom24.mediaset.it/images/2020/02/16/114720192-5eb8307f-017c-4075-a697- 348628da0204.pdf
 
-https://web.archive.org/web/20200214144447/https:/www.researchgate.net/publication/339070128_ The_possible_origins_of_2019-nCoV_coronavirus
+https://web.archive.org/web/20200214144447/https:/www.researchgate.net/publication/339070128\_ The_possible_origins_of\_2019-nCoV_coronavirus
 
 In November of 2019, three technicians at the Wuhan Institute of Virology developed symptoms consistent with a flu-like illness:
 
@@ -1096,8 +1056,6 @@ Moderna claims, rather absurdly, that they developed a working vaccine from this
 
 https://www.businessinsider.com/moderna-designed-coronavirus-vaccine-in-2-days-2020-11
 
-
-
 https://nymag.com/intelligencer/2020/12/moderna-covid-19-vaccine-design.html
 
 Stephane Bancel, the current CEO of Moderna, was formerly the CEO of bioMerieux, a French multinational corporation specializing in medical diagnostic tech, founded by one Alain Merieux:
@@ -1114,17 +1072,15 @@ https://www.fondation-merieux.org/en/news/alain-merieux-receives-the-prestigious
 
 https://medicalxpress.com/news/2020-04-wuhan-lab-core-virus-controversy.html
 
-http://english.whiov.cas.cn/ne/201712/t20171212_187624.html
+http://english.whiov.cas.cn/ne/201712/t20171212\_187624.html
 
-https://web.archive.org/web/20210921133410/http://english.whiov.cas.cn/ne/201712/t20171212_187624.html
+https://web.archive.org/web/20210921133410/http://english.whiov.cas.cn/ne/201712/t20171212\_187624.html
 
 The sequence given as the closest relative to SARS-CoV-2, RaTG13, is not a real virus. It is a forgery:
 
 https://nerdhaspower.weebly.com/ratg13-is-fake.html
 
 RaTG13 – the Undeniable Evidence That the Wuhan Coronavirus Is Man-Made
-
-
 
 https://www.peakprosperity.com/forum-topic/scientific-history-of-ratg13/
 
@@ -1139,8 +1095,6 @@ The FBI raided Allure Medical in Shelby Township north of Detroit for billing in
 https://www.freep.com/story/news/local/michigan/macomb/2020/04/28/allure-medical-spa-shelby- covid-vitamin-c/3038801001/
 
 https://www.detroitnews.com/story/news/local/macomb-county/2020/05/15/doctor-got-loan-while- peddling-phony-covid-19-cure-feds-say/5197315002/
-
-
 
 https://covid19criticalcare.com/wp-content/uploads/2021/01/FLCCC-Alliance-MATHplus-Protocol- ENGLISH.pdf
 
@@ -1182,8 +1136,6 @@ Charles Lieber received millions of dollars in grant money from the US Departmen
 
 Research Sponsors
 
-
-
 His specialty is the use of silicon nanowires in lieu of patch clamp electrodes to monitor and modulate intracellular activity, something he has been working on at Harvard for the past twenty years:
 
 https://www.harvardmagazine.com/2011/01/virus-sized-transistors
@@ -1194,11 +1146,9 @@ https://www.science.org/news/2020/02/why-did-chinese-university-hire-charles-lie
 
 Reading life’s building blocks
 
-
-
 https://news.harvard.edu/gazette/story/2019/07/harvard-researchers-present-nanowire-devices- update/
 
-The indictment was over his collaboration with the Wuhan University of Technology. He had double- dipped, against the terms of his DOD grants, and taken money from the PRC’s Thousand Talents plan, a program which the Chinese government uses to bribe Western scientists into sharing proprietary R&D information that can be exploited by the PLA for strategic advantage (this risk has been known for a very long time):
+The indictment was over his collaboration with the Wuhan University of Technology. He had double- dipped, against the terms of his DOD grants, and taken money from the PRC’s Thousand Talents plan, a program which the Chinese government uses to bribe Western scientists into sharing proprietary R\&D information that can be exploited by the PLA for strategic advantage (this risk has been known for a very long time):
 
 https://www.justice.gov/usao-ma/pr/harvard-university-professor-indicted-false-statement-charges
 
@@ -1224,9 +1174,7 @@ https://spectrum.ieee.org/human-cells-eat-nanowires
 
 Charles Lieber was a colleague of Robert Langer. Together, along with Daniel S. Kohane, they worked on a paper describing artificial tissue scaffolds that could be implanted in a human heart to monitor its activity remotely:
 
-
-
-https://cml.harvard.edu/assets/Cyborg-tissues_-Merging-engineered-human-tissues-with-bio- compatible-nanoscale-wires.pdf
+https://cml.harvard.edu/assets/Cyborg-tissues\_-Merging-engineered-human-tissues-with-bio- compatible-nanoscale-wires.pdf
 
 Robert Langer, an MIT alumnus and expert in nanotech drug delivery, is one of the co-founders of Moderna:
 
@@ -1236,17 +1184,11 @@ His net worth is now $5.1 billion USD thanks to Moderna’s mRNA-1273 vaccine sa
 
 https://www.forbes.com/sites/giacomotognini/2020/11/12/mit-scientist-bob-langer-becomes-a- billionaire-thanks-to-moderna-stock-rally/?sh=41c3819a3a90
 
-
-
 Both Charles Lieber and Robert Langer’s bibliographies describe, essentially, techniques for human enhancement, i.e. transhumanism:
 
 Home
 
-
-
 Home
-
-
 
 Klaus Schwab, the founder of the World Economic Forum and the architect behind the so-called “Great Reset”, has long spoken of the “blending of biology and machinery” in his books:
 
@@ -1290,7 +1232,7 @@ https://www.templehealth.org/about/news/sars-cov-2-spike-proteins-disrupt-the-bl
 
 https://www.croiconference.org/abstract/neuromodulatory-effects-of-sars-cov-2-on-the-blood-brain- barrier/
 
-https://www.nature.com/articles/s41598-020-75253- 9?utm_source=xmol&utm_medium=affiliate&utm_content=meta&utm_campaign=DDCN_1_GL01_metadata_scirep
+https://www.nature.com/articles/s41598-020-75253- 9?utm_source=xmol\&utm_medium=affiliate\&utm_content=meta\&utm_campaign=DDCN\_1\_GL01\_metadata_scirep
 
 https://pubs.acs.org/doi/10.1021/acsanm.8b02056
 
@@ -1318,8 +1260,6 @@ Wireless brain-computer interfaces may interact with current or future wireless 
 
 https://neuralink.com/
 
-
-
 https://www.frontiersin.org/articles/10.3389/fnins.2019.00112/full
 
 https://www.intechopen.com/chapters/44252
@@ -1332,13 +1272,9 @@ A BCI that is capable of altering the contents of one’s mind would theoretical
 
 https://link.springer.com/article/10.1007/s11023-012-9298-7
 
-
-
 BCIs could be used to unscrupulously alter perceptions of basic things such as emotions and values, changing people’s thresholds of satiety, happiness, anger, disgust, and so forth:
 
 http://www.buffalo.edu/news/releases/2010/07/11518.html
-
-
 
 https://www.nature.com/articles/s41593-019-0488-y
 
