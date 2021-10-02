@@ -214,3 +214,4 @@ By inoculating people with a vaccine that causes their bodies to produce Spike i
 Absolutely nobody should be compelled to take this vaccine under any circumstances, and in actual fact, the vaccination campaign must be stopped immediately.
 
 ## COVID-19 Criminal Conspiracy:
+
