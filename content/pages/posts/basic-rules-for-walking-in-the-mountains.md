@@ -165,3 +165,50 @@ Live SARS-CoV-2 may potentially be detected in sewage outflows, and there may be
 
 ## COVID-19 Vaccine Dangers:
 
+The vaccines for COVID-19 are not sterilizing and do not prevent infection or transmission. They are “leaky” vaccines. This means they remove the evolutionary pressure on the virus to become less lethal. It also means that the vaccinated are perfect carriers. In other words, those who are vaccinated are a threat to the unvaccinated, not the other way around.
+
+All of the COVID-19 vaccines currently in use have undergone minimal testing, with highly accelerated clinical trials. Though they appear to limit severe illness, the long-term safety profile of these vaccines remains unknown.
+
+Some of these so-called “vaccines” utilize an untested new technology that has never been used in vaccines before. Traditional vaccines use weakened or killed virus to stimulate an immune response. The Moderna and Pfizer-BioNTech vaccines do not. They are purported to consist of an intramuscular shot containing a suspension of lipid nanoparticles filled with messenger RNA. The way they generate an immune response is by fusing with cells in a vaccine recipient’s shoulder, undergoing endocytosis, releasing their mRNA cargo into those cells, and then utilizing the ribosomes in those cells to synthesize modified SARS-CoV-2 Spike proteins in-situ.
+
+These modified Spike proteins then migrate to the surface of the cell, where they are anchored in place by a transmembrane domain. The adaptive immune system detects the non-human viral protein being expressed by these cells, and then forms antibodies against that protein. This is purported to confer protection against the virus, by training the adaptive immune system to recognize and produce antibodies against the Spike on the actual virus. The J&J and AstraZeneca vaccines do something similar, but use an adenovirus vector for genetic material delivery instead of a lipid nanoparticle. These vaccines were produced or validated with the aid of fetal cell lines HEK-293 and PER.C6, which people with certain religious convictions may object strongly to.
+
+SARS-CoV-2 Spike is a highly pathogenic protein on its own. It is impossible to overstate the danger presented by introducing this protein into the human body.
+
+It is claimed by vaccine manufacturers that the vaccine remains in cells in the shoulder, and that SARS- CoV-2 Spike produced and expressed by these cells from the vaccine’s genetic material is harmless and inert, thanks to the insertion of prolines in the Spike sequence to stabilize it in the prefusion conformation, preventing the Spike from becoming active and fusing with other cells. However, a pharmacokinetic study from Japan showed that the lipid nanoparticles and mRNA from the Pfizer vaccine did not stay in the shoulder, and in fact bioaccumulated in many different organs, including the reproductive organs and adrenal glands, meaning that modified Spike is being expressed quite literally all over the place. These lipid nanoparticles may trigger anaphylaxis in an unlucky few, but far more concerning is the unregulated expression of Spike in various somatic cell lines far from the injection site and the unknown consequences of that.
+
+ 
+
+Messenger RNA is normally consumed right after it is produced in the body, being translated into a protein by a ribosome. COVID-19 vaccine mRNA is produced outside the body, long before a ribosome translates it. In the meantime, it could accumulate damage if inadequately preserved. When a ribosome attempts to translate a damaged strand of mRNA, it can become stalled. When this happens, the ribosome becomes useless for translating proteins because it now has a piece of mRNA stuck in it, like a lace card in an old punch card reader. The whole thing has to be cleaned up and new ribosomes synthesized to replace it. In cells with low ribosome turnover, like nerve cells, this can lead to reduced protein synthesis, cytopathic effects, and neuropathies.
+
+Certain proteins, including SARS-CoV-2 Spike, have proteolytic cleavage sites that are basically like little dotted lines that say “cut here”, which attract a living organism’s own proteases (essentially, molecular scissors) to cut them. There is a possibility that S1 may be proteolytically cleaved from S2, causing active S1 to float away into the bloodstream while leaving the S2 “stalk” embedded in the membrane of the cell that expressed the protein.
+
+SARS-CoV-2 Spike has a Superantigenic region (SAg), which may promote extreme inflammation.
+
+Anti-Spike antibodies were found in one study to function as autoantibodies and attack the body’s own cells. Those who have been immunized with COVID-19 vaccines have developed blood clots, myocarditis, Guillain-Barre Syndrome, Bell’s Palsy, and multiple sclerosis flares, indicating that the vaccine promotes autoimmune reactions against healthy tissue.
+
+SARS-CoV-2 Spike does not only bind to ACE2. It was suspected to have regions that bind to basigin, integrins, neuropilin-1, and bacterial lipopolysaccharides as well. SARS-CoV-2 Spike, on its own, can potentially bind any of these things and act as a ligand for them, triggering unspecified and likely highly inflammatory cellular activity.
+
+SARS-CoV-2 Spike contains an unusual PRRA insert that forms a furin cleavage site. Furin is a ubiquitous human protease, making this an ideal property for the Spike to have, giving it a high degree of cell tropism. No wild-type SARS-like coronaviruses related to SARS-CoV-2 possess this feature, making it highly suspicious, and perhaps a sign of human tampering.
+
+SARS-CoV-2 Spike has a prion-like domain that enhances its infectiousness.
+
+The Spike S1 RBD may bind to heparin-binding proteins and promote amyloid aggregation. In humans, this could lead to Parkinson’s, Lewy Body Dementia, premature Alzheimer’s, or various other neurodegenerative diseases. This is very concerning because SARS-CoV-2 S1 is capable of injuring and penetrating the blood-brain barrier and entering the brain. It is also capable of increasing the permeability of the blood-brain barrier to other molecules.
+
+SARS-CoV-2, like other betacoronaviruses, may have Dengue-like ADE, or antibody-dependent enhancement of disease. For those who aren’t aware, some viruses, including betacoronaviruses, have a feature called ADE. There is also something called Original Antigenic Sin, which is the observation that the body prefers to produce antibodies based on previously-encountered strains of a virus over newly- encountered ones.
+
+In ADE, antibodies from a previous infection become non-neutralizing due to mutations in the virus’s proteins. These non-neutralizing antibodies then act as trojan horses, allowing live, active virus to be pulled into macrophages through their Fc receptor pathways, allowing the virus to infect immune cells that it would not have been able to infect before. This has been known to happen with Dengue Fever; when someone gets sick with Dengue, recovers, and then contracts a different strain, they can get very, very ill.
+
+If someone is vaccinated with mRNA based on the Spike from the initial Wuhan strain of SARS-CoV-2, and then they become infected with a future, mutated strain of the virus, they may become severely ill. In other words, it is possible for vaccines to sensitize someone to disease.
+
+ 
+
+There is a precedent for this in recent history. Sanofi’s Dengvaxia vaccine for Dengue failed because it caused immune sensitization in people whose immune systems were Dengue-naive.
+
+In mice immunized against SARS-CoV and challenged with the virus, a close relative of SARS-CoV-2, they developed immune sensitization, Th2 immunopathology, and eosinophil infiltration in their lungs.
+
+We have been told that SARS-CoV-2 mRNA vaccines cannot be integrated into the human genome, because messenger RNA cannot be turned back into DNA. This is false. There are elements in human cells called LINE-1 retrotransposons, which can indeed integrate mRNA into a human genome by endogenous reverse transcription. Because the mRNA used in the vaccines is stabilized, it hangs around in cells longer, increasing the chances for this to happen. If the gene for SARS-CoV-2 Spike is integrated into a portion of the genome that is not silent and actually expresses a protein, it is possible that people who take this vaccine may continuously express SARS-CoV-2 Spike from their somatic cells for the rest of their lives.
+
+By inoculating people with a vaccine that causes their bodies to produce Spike in-situ, they are being inoculated with a pathogenic protein. A toxin that may cause long-term inflammation, heart problems, and a raised risk of cancers. In the long-term, it may also potentially lead to premature neurodegenerative disease.
+
+Absolutely nobody should be compelled to take this vaccine under any circumstances, and in actual fact, the vaccination campaign must be stopped immediately.
