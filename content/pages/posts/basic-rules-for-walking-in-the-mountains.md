@@ -298,3 +298,40 @@ Our flaws are what make us human. A utopia arrived at by removing people’s fre
 The Elites are forging ahead with this technology without giving people any room to question the social or ethical ramifications, or to establish regulatory frameworks that ensure that our personal agency and autonomy will not be overridden by these devices. They do this because they secretly dream of a future where they can treat you worse than an animal and you cannot even fight back. If this evil plan is allowed to continue, it will spell the end of humanity as we know it.
 
 ## Conclusions:
+
+The current pandemic was produced and perpetuated by the establishment, through the use of a virus engineered in a PLA-connected Chinese biowarfare laboratory, with the aid of American taxpayer dollars and French expertise.
+
+This research was conducted under the absolutely ridiculous euphemism of “gain-of-function” research, which is supposedly carried out in order to determine which viruses have the highest potential for zoonotic spillover and preemptively vaccinate or guard against them.
+
+Gain-of-function/gain-of-threat research, a.k.a. “Dual-Use Research of Concern”, or DURC, is bioweapon research by another, friendlier-sounding name, simply to avoid the taboo of calling it what it actually is. It has always been bioweapon research. The people who are conducting this research fully understand that they are taking wild pathogens that are not infectious in humans and making them more infectious, often taking grants from military think tanks encouraging them to do so.
+
+These virologists conducting this type of research are enemies of their fellow man, like pyromaniac firefighters. GOF research has never protected anyone from any pandemic. In fact, it has now started one, meaning its utility for preventing pandemics is actually negative. It should have been banned globally, and the lunatics performing it should have been put in straitjackets long ago.
+
+Either through a leak or an intentional release from the Wuhan Institute of Virology, a deadly SARS strain is now endemic across the globe, after the WHO and CDC and public officials first downplayed the risks, and then intentionally incited a panic and lockdowns that jeopardized people’s health and their livelihoods.
+
+This was then used by the utterly depraved and psychopathic aristocratic class who rule over us as an excuse to coerce people into accepting an injected poison which may be a depopulation agent, a mind control/pacification agent in the form of injectable “smart dust”, or both in one. They believe they can get away with this by weaponizing the social stigma of vaccine refusal. They are incorrect.
+
+Their motives are clear and obvious to anyone who has been paying attention. These megalomaniacs have raided the pension funds of the free world. Wall Street is insolvent and has had an ongoing liquidity crisis since the end of 2019. The aim now is to exert total, full-spectrum physical, mental, and financial control over humanity before we realize just how badly we’ve been extorted by these maniacs.
+
+The pandemic and its response served multiple purposes for the Elite:
+
+• Concealing a depression brought on by the usurious plunder of our economies conducted by rentier-capitalists and absentee owners who produce absolutely nothing of any value to society whatsoever. Instead of us having a very predictable Occupy Wall Street Part II, the Elites and their stooges got to stand up on television and paint themselves as wise and all-powerful saviors instead of the marauding cabal of despicable land pirates that they are.
+• Destroying small businesses and eroding the middle class.
+• Transferring trillions of dollars of wealth from the American public and into the pockets of billionaires and special interests.
+• Engaging in insider trading, buying stock in biotech companies and shorting brick-and-mortar businesses and travel companies, with the aim of collapsing face-to-face commerce and tourism and replacing it with e-commerce and servitization.
+• Creating a casus belli for war with China, encouraging us to attack them, wasting American lives and treasure and driving us to the brink of nuclear armageddon.
+• Establishing technological and biosecurity frameworks for population control and technocratic- socialist “smart cities” where everyone’s movements are despotically tracked, all in anticipation of widespread automation, joblessness, and food shortages, by using the false guise of a vaccine to compel cooperation.
+
+Any one of these things would constitute a vicious rape of Western society. Taken together, they beggar belief; they are a complete inversion of our most treasured values.
+
+What is the purpose of all of this? One can only speculate as to the perpetrators’ motives, however, we have some theories.
+
+The Elites are trying to pull up the ladder, erase upward mobility for large segments of the population, cull political opponents and other “undesirables”, and put the remainder of humanity on a tight leash, rationing our access to certain goods and services that they have deemed “high-impact”, such as automobile use, tourism, meat consumption, and so on. Naturally, they will continue to have their own luxuries, as part of a strict caste system akin to feudalism.
+
+Why are they doing this? Simple. The Elites are Neo-Malthusians and believe that we are overpopulated and that resource depletion will collapse civilization in a matter of a few short decades. They are not necessarily incorrect in this belief. We are overpopulated, and we are consuming too many resources. However, orchestrating such a gruesome and murderous power grab in response to a looming crisis demonstrates that they have nothing but the utmost contempt for their fellow man.
+
+To those who are participating in this disgusting farce without any understanding of what they are doing, we have one word for you. Stop. You are causing irreparable harm to your country and to your fellow citizens.
+
+To those who may be reading this warning and have full knowledge and understanding of what they are doing and how it will unjustly harm millions of innocent people, we have a few more words.
+
+Damn you to hell. You will not destroy America and the Free World, and you will not have your New World Order. We will make certain of that.
