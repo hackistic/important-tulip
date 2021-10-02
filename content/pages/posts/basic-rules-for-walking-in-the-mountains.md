@@ -62,7 +62,7 @@ What we have discovered would shock anyone to their core.
 First, we will summarize our findings, and then, we will explain them in detail. References will be placed at the end.
 
 
-## Long Distance Hiking
+## Summ
 
 Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
 
