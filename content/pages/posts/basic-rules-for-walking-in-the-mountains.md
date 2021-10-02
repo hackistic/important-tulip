@@ -336,4 +336,5 @@ To those who may be reading this warning and have full knowledge and understandi
 
 Damn you to hell. You will not destroy America and the Free World, and you will not have your New World Order. We will make certain of that.
 
-## 
+## References:
+
