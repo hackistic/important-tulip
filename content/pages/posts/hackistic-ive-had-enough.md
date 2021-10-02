@@ -72,16 +72,43 @@ First, we will summarize our findings, and then, we will explain them in detail.
 
 ## Summary:
 
-• COVID-19 is a blood and blood vessel disease. SARS-CoV-2 infects the lining of human blood vessels, causing them to leak into the lungs.
-• Current treatment protocols (e.g. invasive ventilation) are actively harmful to patients, accelerating oxidative stress and causing severe VILI (ventilator-induced lung injuries). The continued use of ventilators in the absence of any proven medical benefit constitutes mass murder.
-• Existing countermeasures are inadequate to slow the spread of what is an aerosolized and potentially wastewater-borne virus, and constitute a form of medical theater.
-• Various non-vaccine interventions have been suppressed by both the media and the medical establishment in favor of vaccines and expensive patented drugs.
-• The authorities have denied the usefulness of natural immunity against COVID-19, despite the fact that natural immunity confers protection against all of the virus’s proteins, and not just one.
-• Vaccines will do more harm than good. The antigen that these vaccines are based on, SARS-CoV- 2 Spike, is a toxic protein. SARS-CoV-2 may have ADE, or antibody-dependent enhancement; current antibodies may not neutralize future strains, but instead help them infect immune cells. Also, vaccinating during a pandemic with a leaky vaccine removes the evolutionary pressure for a virus to become less lethal.
-• There is a vast and appalling criminal conspiracy that directly links both Anthony Fauci and Moderna to the Wuhan Institute of Virology.
-• COVID-19 vaccine researchers are directly linked to scientists involved in brain-computer interface (“neural lace”) tech, one of whom was indicted for taking grant money from China.
-• Independent researchers have discovered mysterious nanoparticles inside the vaccines that are not supposed to be present.
-• The entire pandemic is being used as an excuse for a vast political and economic transformation of Western society that will enrich the already rich and turn the rest of us into serfs and untouchables.
+*   *COVID-19 is a blood and blood vessel disease. SARS-CoV-2 infects the lining of human blood vessels, causing them to leak into the lungs. *
+
+<!---->
+
+*   *Current treatment protocols (e.g. invasive ventilation) are actively harmful to patients, accelerating oxidative stress and causing severe VILI (ventilator-induced lung injuries). The continued use of ventilators in the absence of any proven medical benefit constitutes mass murder. *
+
+<!---->
+
+*   *Existing countermeasures are inadequate to slow the spread of what is an aerosolized and potentially wastewater-borne virus, and constitute a form of medical theater.*
+
+<!---->
+
+*   *Various non-vaccine interventions have been suppressed by both the media and the medical establishment in favor of vaccines and expensive patented drugs.*
+
+<!---->
+
+*   *The authorities have denied the usefulness of natural immunity against COVID-19, despite the fact that natural immunity confers protection against all of the virus’s proteins, and not just one.*
+
+<!---->
+
+*   *Vaccines will do more harm than good. The antigen that these vaccines are based on, SARS-CoV- 2 Spike, is a toxic protein. SARS-CoV-2 may have ADE, or antibody-dependent enhancement; current antibodies may not neutralize future strains, but instead help them infect immune cells. Also, vaccinating during a pandemic with a leaky vaccine removes the evolutionary pressure for a virus to become less lethal.*
+
+<!---->
+
+*   *There is a vast and appalling criminal conspiracy that directly links both Anthony Fauci and Moderna to the Wuhan Institute of Virology.*
+
+<!---->
+
+*   *COVID-19 vaccine researchers are directly linked to scientists involved in brain-computer interface (“neural lace”) tech, one of whom was indicted for taking grant money from China.*
+
+<!---->
+
+*   * Independent researchers have discovered mysterious nanoparticles inside the vaccines that are not supposed to be present.*
+
+<!---->
+
+*   *The entire pandemic is being used as an excuse for a vast political and economic transformation of Western society that will enrich the already rich and turn the rest of us into serfs and untouchables.*
 
 ## COVID-19 Pathophysiology and Treatments:
 
