@@ -72,11 +72,11 @@ First, we will summarize our findings, and then, we will explain them in detail.
 
 ## Summary:
 
-*   *COVID-19 is a blood and blood vessel disease. SARS-CoV-2 infects the lining of human blood vessels, causing them to leak into the lungs. *
+*   COVID-19 is a blood and blood vessel disease. SARS-CoV-2 infects the lining of human blood vessels, causing them to leak into the lungs. 
 
 <!---->
 
-*   *Current treatment protocols (e.g. invasive ventilation) are actively harmful to patients, accelerating oxidative stress and causing severe VILI (ventilator-induced lung injuries). The continued use of ventilators in the absence of any proven medical benefit constitutes mass murder. *
+*   Current treatment protocols (e.g. invasive ventilation) are actively harmful to patients, accelerating oxidative stress and causing severe VILI (ventilator-induced lung injuries). The continued use of ventilators in the absence of any proven medical benefit constitutes mass murder. 
 
 <!---->
 
@@ -104,7 +104,7 @@ First, we will summarize our findings, and then, we will explain them in detail.
 
 <!---->
 
-*   * Independent researchers have discovered mysterious nanoparticles inside the vaccines that are not supposed to be present.*
+*   *   Independent researchers have discovered mysterious nanoparticles inside the vaccines that are not supposed to be present.\*
 
 <!---->
 
