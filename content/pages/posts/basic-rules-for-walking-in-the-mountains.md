@@ -212,3 +212,4 @@ We have been told that SARS-CoV-2 mRNA vaccines cannot be integrated into the hu
 By inoculating people with a vaccine that causes their bodies to produce Spike in-situ, they are being inoculated with a pathogenic protein. A toxin that may cause long-term inflammation, heart problems, and a raised risk of cancers. In the long-term, it may also potentially lead to premature neurodegenerative disease.
 
 Absolutely nobody should be compelled to take this vaccine under any circumstances, and in actual fact, the vaccination campaign must be stopped immediately.
+
