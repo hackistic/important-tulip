@@ -8,7 +8,7 @@
         "tagline": "Seek The Truth",
         "profile_img": "/images/hackistic_gotcha.jpg",
         "profile_img_alt": "Author avatar",
-        "background": "light",
+        "background": "dark",
         "has_nav": true,
         "nav_links": [
             {
