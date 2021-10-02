@@ -297,3 +297,4 @@ Our flaws are what make us human. A utopia arrived at by removing people’s fre
 
 The Elites are forging ahead with this technology without giving people any room to question the social or ethical ramifications, or to establish regulatory frameworks that ensure that our personal agency and autonomy will not be overridden by these devices. They do this because they secretly dream of a future where they can treat you worse than an animal and you cannot even fight back. If this evil plan is allowed to continue, it will spell the end of humanity as we know it.
 
+## Conclusions:
