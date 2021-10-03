@@ -667,5 +667,5 @@ models:
     type: config
     label: test
     fields:
-      - name: ''
+      - name: test
         type: string
