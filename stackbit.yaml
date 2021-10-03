@@ -669,3 +669,4 @@ models:
     fields:
       - name: test
         type: string
+        label: test
