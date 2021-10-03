@@ -672,3 +672,5 @@ models:
         label: test
         description: test
         default: test
+        const: test
+        hidden: true
