@@ -666,3 +666,6 @@ models:
   test:
     type: config
     label: test
+    fields:
+      - name: ''
+        type: string
