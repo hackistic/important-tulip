@@ -663,5 +663,3 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-            - name: ''
-              type: string
