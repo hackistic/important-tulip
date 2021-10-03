@@ -675,3 +675,4 @@ models:
         const: test
         hidden: true
         required: true
+        readOnly: true
