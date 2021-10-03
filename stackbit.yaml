@@ -671,3 +671,4 @@ models:
         type: string
         label: test
         description: test
+        default: test
