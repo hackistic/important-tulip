@@ -663,16 +663,3 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  test:
-    type: config
-    label: test
-    fields:
-      - name: test
-        type: string
-        label: test
-        description: test
-        default: test
-        const: test
-        hidden: true
-        required: true
-        readOnly: true
