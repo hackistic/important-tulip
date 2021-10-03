@@ -669,3 +669,4 @@ models:
     fields:
       - name: ''
         type: string
+        required: true
