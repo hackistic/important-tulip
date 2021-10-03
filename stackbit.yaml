@@ -630,14 +630,24 @@ models:
         items:
           type: enum
           options:
-            - all
-            - index
-            - follow
-            - noindex
-            - nofollow
-            - noimageindex
-            - notranslate
-            - none
+            - label: all
+              value: all
+            - label: index
+              value: index
+            - label: follow
+              value: follow
+            - label: noindex
+              value: noindex
+            - label: nofollow
+              value: nofollow
+            - label: noimageindex
+              value: noimageindex
+            - label: notranslate
+              value: notranslate
+            - label: none
+              value: none
+            - label: ''
+              value: ''
       - type: list
         name: extra
         label: Extra
