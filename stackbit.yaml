@@ -663,3 +663,6 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
+  test:
+    type: config
+    label: test
