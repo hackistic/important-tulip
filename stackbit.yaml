@@ -670,3 +670,4 @@ models:
       - name: test
         type: string
         label: test
+        description: test
