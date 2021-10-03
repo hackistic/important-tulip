@@ -306,7 +306,8 @@ models:
           - stackbit_page_meta
         label: Seo
       - name: ''
-        type: string
+        type: reference
+        models: []
   page:
     type: page
     label: Page
