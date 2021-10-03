@@ -674,3 +674,4 @@ models:
         default: test
         const: test
         hidden: true
+        required: true
