@@ -29,7 +29,7 @@ And now we see it here, being used to describe the cold chain delivery process f
 
 ###### *It's a vaccine technology that's so new, no mRNA vaccines have ever been approved by the Food and Drug Administration.Because if the information is secret, how can we trust any medical professional saying the vaccines are safe and effective?*
 
-> Because the specific formulations are secret, Liu says, it's not clear exactly why these two mRNA vaccines have different temperature requirements.
+###### Because the specific formulations are secret, Liu says, it's not clear exactly why these two mRNA vaccines have different temperature requirements.
 
 **The specific formulations are secret.** OK. Let's translate: we keep the formulations secret so we can keep maximizing profit instead of saving human lives by sharing knowledge. That's one possible translation. Here's another one: We're keeping this formulation a secret because we don't want anyone to figure out what the actual plan is.
 
