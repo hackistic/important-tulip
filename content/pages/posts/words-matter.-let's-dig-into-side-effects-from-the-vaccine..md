@@ -41,9 +41,9 @@ Many won’t be able to access certain public places and gatherings without a ne
 
 [Source Here](https://www.timesofisrael.com/over-1-million-israelis-who-didnt-get-3rd-dose-to-lose-green-pass-on-sunday/)
 
-###### *    Health Ministry data on Monday showed that **4,710,716 Israelis were vaccinated with two doses six months ago, but only    3,243,641 of them have been administered a booster dose.***
+###### \*    Health Ministry data on Monday showed that **4,710,716 Israelis were vaccinated with two doses six months ago, but only    3,243,641 of them have been administered a booster dose.**\*
 
-###### *    Even subtracting the hundreds of thousands infected with COVID-19 in the past six months, meaning they wouldn’t need the third             vaccine dose, **the number of people who will no longer have a so-called Green Pass is over a million.***
+###### \*    Even subtracting the hundreds of thousands infected with COVID-19 in the past six months, meaning they wouldn’t need the third             vaccine dose, **the number of people who will no longer have a so-called Green Pass is over a million.**\*
 
 Booster shots are the canary in the cold mine. It's the data to see where the future **LIES**. because if the booster shots keep falling, as far as I'm concerned, this indicates the serious adverse events are much more prevalent than our fact checkers have told us (I know, DUH).  They needed a decent sized portion of the population to remain unvaccinated, because if everyone was vaccinated, how could they justify a vaccine passport? Why would they need to prove vaccinated status if almost everyone was vaccinated?
 
@@ -57,9 +57,9 @@ And all of those nurses walking off the job because of the vaccine? Say hello to
 
 ## **Meet Grace, the healthcare robot COVID-19 created**
 
-\*\*\*\*[Source Here](https://www.reuters.com/business/healthcare-pharmaceuticals/meet-grace-healthcare-robot-covid-19-created-2021-06-09/)
+[Source Here](https://www.reuters.com/business/healthcare-pharmaceuticals/meet-grace-healthcare-robot-covid-19-created-2021-06-09/)
 
-> Separately the ministry announced this week that recovered COVID-19 patients will be required to get a single coronavirus vaccine dose after they were diagnosed, **in order to remain eligible to receive a Green Pass.** Previously all recoveries were eligible.
+######    Separately the ministry announced this week that recovered COVID-19 patients will be required to get a single coronavirus vaccine      dose after they were diagnosed, **in order to remain eligible to receive a Green Pass.** Previously all recoveries were eligible.
 
 In order to remain eligible. So they were fine with natural immunity before, now, not so much. And this will spread. Have no doubt about it. And what will that mean? More people who can't work because they're plague rats instead of lab rats.
 
@@ -67,9 +67,9 @@ Maybe this will finally answer the question, **DO ANDROIDS DREAM OF ELECTRIC SH
 
 ## **Dr. Ruud Dobber, President of AstraZeneca US and EVP of Bio-pharmaceuticals**
 
-> DOBBER: I think it's optimistic. I think we need to realize that the challenge is enormous. We are talking here about a world population of 7 billion people. But it is good. The moment we have the first doses available of course we are starting to create the herd immunity. 
->
-> \*\*Specialist, experts are saying you need to vaccinate roughly 70% of the population in order to achieve that.  \*\*
+###### *    DOBBER: I think it's optimistic. I think we need to realize that the challenge is enormous. We are talking here about a world population of 7 billion people. But it is good. The moment we have the first doses available of course we are starting to create the herd immunity. *
+
+###### *      Specialist, experts are saying you need to vaccinate roughly 70% of the population in order to achieve that.*
 
 Ah, the start of the famous moving the goalposts. Seventy percent vaccinated will lead to herd immunity. That didn't last too long did it. What are the latest figures? 97 percent of society? I wonder if that's a good idea? Maybe I should take a look around to see if I can find any indications that we should slow down on the **SHOTS FOR DOTS** program.
 
@@ -77,19 +77,17 @@ Ah, the start of the famous moving the goalposts. Seventy percent vaccinated wil
 
 [Source Here](https://www.reuters.com/article/us-astrazeneca-results-vaccine-liability-idUSKCN24V2EN)
 
-> "This is a unique situation where we as a company simply cannot take the risk if in ... four years the vaccine is showing side effects," Ruud Dobber, a member of Astra's senior executive team, told Reuters.
+###### *    "This is a unique situation where we as a company simply cannot take the risk if in ... four years the vaccine is showing side effects," Ruud Dobber, a member of Astra's senior executive team, told Reuters.*
 
-> With 25 companies testing their vaccine candidates on humans and getting ready to immunize hundred millions of people once the products are shown to work, the question of who pays for any claims for damages in case of side effects has been a tricky point in supply negotiations.
+######    With 25 companies testing their vaccine candidates on humans and getting ready to immunize hundred millions of people once the products are shown to work, the question of who pays for any claims for damages in case of side effects has been a tricky point in supply negotiations.
 
 If the vaccine is showing side effects in **FOUR YEARS**. Right there folks, in black and white. From a top member of AstraZeneca. Remember when the vaccine roll-out first started, and one of the executives (I think it was the Pfizer president) came out and said, don't be alarmed if people die, they die everyday, it doesn't mean that it's the vaccine. Uhm, excuse me? Ok. But then remember how they claimed the side effects only happened in the first fifteen minutes? Then it became, the first couple of weeks? Yeah. **And now we have the executive at AstraZeneca claiming, hey, we can't take the risk of being sued because there might be side effects in FOUR YEARS!**
-
-## \*\*\*\*
 
 ## **‘Held to ransom’: Pfizer plays hardball in Covid-19 vaccine negotiations with Latin American countries**
 
 [Source Here](https://www.statnews.com/2021/02/23/pfizer-plays-hardball-in-covid19-vaccine-negotiations-in-latin-america/)
 
-> Officials from Argentina and the other Latin American country, which cannot be named as it has signed a confidentiality agreement with Pfizer, said the company’s negotiators demanded more than the usual indemnity against civil claims filed by citizens who suffer serious adverse events after being inoculated.
+###### *   Officials from Argentina and the other Latin American country, which cannot be named as it has signed a confidentiality agreement    with Pfizer, said the company’s negotiators demanded more than the usual indemnity against civil claims filed by citizens who suffer serious adverse events after being inoculated.*
 
 They said Pfizer also insisted the governments cover the potential costs of civil cases brought as a result of Pfizer’s own acts of negligence, fraud, or malice.
 
@@ -99,11 +97,11 @@ In Argentina and Brazil, Pfizer asked for **sovereign assets to be put up as co
 
 That's. Even. **WORSE**
 
-> One government health official who was present in the unnamed country’s negotiations described 
+> > One government health official who was present in the unnamed country’s negotiations described 
 >
-> **Pfizer’s demands as “high-level bullying” and said the government felt like it was being “held to ransom”**
+> > **Pfizer’s demands as “high-level bullying” and said the government felt like it was being “held to ransom”**
 >
->  in order to access lifesaving vaccines.
+> >  in order to access lifesaving vaccines.
 
 We. Do. Not. Negotiate. With. **TERRORISTS**.
 
