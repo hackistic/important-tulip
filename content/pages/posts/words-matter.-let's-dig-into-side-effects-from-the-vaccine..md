@@ -5,7 +5,7 @@ subtitle: >-
   According to a Pfizer executive, that's wrong. And now they can't be held
   legally accountable. Perfect.
 date: '2021-10-04'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Vaccine Side Effects
 content_img_alt: lorem-ipsum
 excerpt: >-
   They told us side effects only had to be worried about for two weeks.
