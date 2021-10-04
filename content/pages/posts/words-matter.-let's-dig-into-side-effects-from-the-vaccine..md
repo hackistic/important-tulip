@@ -6,7 +6,7 @@ subtitle: >-
   legally accountable. Perfect.
 date: '2021-10-04'
 thumb_img_alt: Vaccine Side Effects
-content_img_alt: lorem-ipsum
+content_img_alt: Vaccine Side Effects for the World
 excerpt: >-
   They told us side effects only had to be worried about for two weeks.
   According to a Pfizer executive, that's wrong. And now they can't be held
