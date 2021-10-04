@@ -1,5 +1,5 @@
 ---
-title: Words matter. Let's dig into side effects from the vaccine.
+title: Words matter. Let's dig into the side effects from the vaccine.
 subtitle: lorem-ipsum
 date: '2021-10-04'
 thumb_img_alt: lorem-ipsum
