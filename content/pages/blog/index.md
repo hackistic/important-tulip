@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Connecting The Dots
 seo:
   title: Blog
   description: This is the blog page
