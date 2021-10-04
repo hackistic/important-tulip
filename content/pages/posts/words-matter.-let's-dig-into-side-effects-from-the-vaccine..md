@@ -27,7 +27,7 @@ Pizza. Over and over again we're seeing the term being used by those in a positi
 
 And now we see it here, being used to describe the cold chain delivery process for the vaccines. What does it mean? I have no idea at this point. It might just be coincidence. I just don't believe that it is. And I also don't think the word is tied into sex trafficking. Why? Too easy. Misdirection. Cover up the truth with a basic impulse fear trigger to make us stop asking questions and focus on the wrong topic. Am I positive? No. But I'm skeptical and keeping my mind open to future occurrences of the term. Remember, **WORDS MATTER**. They use them to deceive, and they also use them to talk out in the open, hidden in plain sight.
 
-> It's a vaccine technology that's so new, no mRNA vaccines have ever been approved by the Food and Drug Administration.Because if the information is secret, how can we trust any medical professional saying the vaccines are safe and effective?
+###### *It's a vaccine technology that's so new, no mRNA vaccines have ever been approved by the Food and Drug Administration.Because if the information is secret, how can we trust any medical professional saying the vaccines are safe and effective?*
 
 > Because the specific formulations are secret, Liu says, it's not clear exactly why these two mRNA vaccines have different temperature requirements.
 
@@ -45,8 +45,6 @@ Many won’t be able to access certain public places and gatherings without a ne
 
 > Even subtracting the hundreds of thousands infected with COVID-19 in the past six months, meaning they wouldn’t need the third vaccine dose, **the number of people who will no longer have a so-called Green Pass is over a million.**
 
-
-
 Booster shots are the canary in the cold mine. It's the data to see where the future **LIES**. because if the booster shots keep falling, as far as I'm concerned, this indicates the serious adverse events are much more prevalent than our fact checkers have told us (I know, DUH).  They needed a decent sized portion of the population to remain unvaccinated, because if everyone was vaccinated, how could they justify a vaccine passport? Why would they need to prove vaccinated status if almost everyone was vaccinated?
 
 I've been skeptical of the measures taken almost from the start, and the longer this continues, the greater my skepticism grows. This agenda is multifaceted. It's complicated. And in the grand scheme of this **NEW NORMAL**, we haven't even left the starting gate. Remember, one facet of this agenda is increased automation replacing the human labor force, and another one was the **PERMANENT** introduction of the vaccine passport.
@@ -59,7 +57,7 @@ And all of those nurses walking off the job because of the vaccine? Say hello to
 
 ## **Meet Grace, the healthcare robot COVID-19 created**
 
-****[Source Here](https://www.reuters.com/business/healthcare-pharmaceuticals/meet-grace-healthcare-robot-covid-19-created-2021-06-09/)
+\*\*\*\*[Source Here](https://www.reuters.com/business/healthcare-pharmaceuticals/meet-grace-healthcare-robot-covid-19-created-2021-06-09/)
 
 > Separately the ministry announced this week that recovered COVID-19 patients will be required to get a single coronavirus vaccine dose after they were diagnosed, **in order to remain eligible to receive a Green Pass.** Previously all recoveries were eligible.
 
@@ -71,11 +69,9 @@ Maybe this will finally answer the question, **DO ANDROIDS DREAM OF ELECTRIC SH
 
 > DOBBER: I think it's optimistic. I think we need to realize that the challenge is enormous. We are talking here about a world population of 7 billion people. But it is good. The moment we have the first doses available of course we are starting to create the herd immunity. 
 >
-> **Specialist, experts are saying you need to vaccinate roughly 70% of the population in order to achieve that.  **
+> \*\*Specialist, experts are saying you need to vaccinate roughly 70% of the population in order to achieve that.  \*\*
 
 Ah, the start of the famous moving the goalposts. Seventy percent vaccinated will lead to herd immunity. That didn't last too long did it. What are the latest figures? 97 percent of society? I wonder if that's a good idea? Maybe I should take a look around to see if I can find any indications that we should slow down on the **SHOTS FOR DOTS** program.
-
-
 
 ## **AstraZeneca to be exempt from coronavirus vaccine liability claims in most countries**
 
@@ -87,7 +83,7 @@ Ah, the start of the famous moving the goalposts. Seventy percent vaccinated wil
 
 If the vaccine is showing side effects in **FOUR YEARS**. Right there folks, in black and white. From a top member of AstraZeneca. Remember when the vaccine roll-out first started, and one of the executives (I think it was the Pfizer president) came out and said, don't be alarmed if people die, they die everyday, it doesn't mean that it's the vaccine. Uhm, excuse me? Ok. But then remember how they claimed the side effects only happened in the first fifteen minutes? Then it became, the first couple of weeks? Yeah. **And now we have the executive at AstraZeneca claiming, hey, we can't take the risk of being sued because there might be side effects in FOUR YEARS!**
 
-## ****
+## \*\*\*\*
 
 ## **‘Held to ransom’: Pfizer plays hardball in Covid-19 vaccine negotiations with Latin American countries**
 
@@ -108,7 +104,6 @@ That's. Even. **WORSE**
 > **Pfizer’s demands as “high-level bullying” and said the government felt like it was being “held to ransom”**
 >
 >  in order to access lifesaving vaccines.
->
 
 We. Do. Not. Negotiate. With. **TERRORISTS**.
 
@@ -117,7 +112,6 @@ We. Do. Not. Negotiate. With. **TERRORISTS**.
 > **adverse events are so rare that they do not show up in clinical trials and only become apparent once hundreds of thousands of people have received the vaccine**
 >
 >  (a 2009 H1N1 flu vaccine, for example, was eventually linked to narcolepsy). Because manufacturers have developed vaccines quickly and because they protect everyone in society, governments often agree to cover the cost of compensation.
-
 
 Adverse events are so rare they do not show up in clinical trials. So whenever you hear them say, rare adverse events, I want you to remember their idea of rare is one in hundreds of thousands. Does that mean one in two hundred thousand, or one in seven hundred thousand?  And more specifically, we don't know what the adverse events are because they may not have shown up. And may do so in four years time. Which is why they need protection against **FRAUD, NEGLIGENCE, and, MALICE**.
 
@@ -129,10 +123,11 @@ Wait. What?
 
 > *a person or thing intended to deceive others, typically by unjustifiably claiming or being credited with accomplishments or qualities.*
 
-> *wrongful or criminal deception intended to result in financial or personal gain.   *
+> \*wrongful or criminal deception intended to result in financial or personal gain.   \*
 
 *
-**Malice definition: noun.***
+
+**Malice definition: noun.**\*
 
 > *wrongful intention, especially as increasing the guilt of certain offenses.*
 
@@ -143,7 +138,8 @@ Wait. What?
 > failure to take proper care in doing something.
 >
 > *
-> failure to use reasonable care, resulting in damage or injury to another.*
+>
+> failure to use reasonable care, resulting in damage or injury to another.\*
 
 ## &#xA;**Get Your vaccination and save civilization**
 
@@ -164,7 +160,6 @@ Wait. What?
 >
 > [Source Here](https://www.medicalnewstoday.com/articles/how-did-we-develop-a-covid-19-vaccine-so-quickly)
 
-
 Stockpile the vaccine before they know it'll work. With over four hundred million dollars, and that figure might be higher for coronavirus, except;
 
 ## **The co-founder of BioNTech designed the coronavirus vaccine it made with Pfizer in just a few hours over a single day**
@@ -175,14 +170,13 @@ Stockpile the vaccine before they know it'll work. With over four hundred millio
 >
 > **designed the vaccine in just a few hours in mid-January**
 >
-> , according to The Journal, a podcast from Gimlet and The Wall Street Journal.  
+> , according to The Journal, a podcast from Gimlet and The Wall Street Journal.
 
 > A BioNTech spokesperson confirmed to Business Insider that Sahin — who founded the company with his wife, Özlem Türeci — 
 >
 > **made a "rough design over one weekend."  Moderna's vaccine also took just two days to design**
 >
 > , as Business Insider previously reported. The reason both candidates could be designed so quickly comes down to the technology they rely on: messenger RNA, or mRNA.
->
 
 Ok. Come on.  So they needed over four hundred million dollars to design a drug in under two days!!! But. But.  The clinical trials, you might be saying. Yeah, ok.  Those trials didn't seem to be anything extravagant, just accelerated, so I'm not quite sure why the cost would to test the mRNA would balloon from around forty million to over four hundred million.  And I'm also pretty sure they wouldn't be stockpiling a drug if they weren't positive that drug was going to be used.  In other words, the trials were nothing but a dog and pony show. Plain and simple.
 
