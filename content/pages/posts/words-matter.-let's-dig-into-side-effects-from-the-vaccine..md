@@ -7,7 +7,10 @@ subtitle: >-
 date: '2021-10-04'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  They told us side effects only had to be worried about for two weeks.
+  According to a Pfizer executive, that's wrong. And now they can't be held
+  legally accountable. Perfect.
 seo:
   title: ''
   description: ''
