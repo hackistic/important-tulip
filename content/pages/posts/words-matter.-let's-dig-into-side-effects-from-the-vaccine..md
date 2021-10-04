@@ -17,6 +17,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: /images/vaxsideeffectspic.jpeg
 ---
 I'm noticing some strange patterns recently. Really strange. Could they be nothing? Sure. They could. Of course they could. At the same time, they might mean something, and in this crazy world being constructed right before our eyes, I tend to view these strange patterns as meaning something.
 
