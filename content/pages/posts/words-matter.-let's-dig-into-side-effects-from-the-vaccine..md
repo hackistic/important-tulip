@@ -27,9 +27,9 @@ Pizza. Over and over again we're seeing the term being used by those in a positi
 
 And now we see it here, being used to describe the cold chain delivery process for the vaccines. What does it mean? I have no idea at this point. It might just be coincidence. I just don't believe that it is. And I also don't think the word is tied into sex trafficking. Why? Too easy. Misdirection. Cover up the truth with a basic impulse fear trigger to make us stop asking questions and focus on the wrong topic. Am I positive? No. But I'm skeptical and keeping my mind open to future occurrences of the term. Remember, **WORDS MATTER**. They use them to deceive, and they also use them to talk out in the open, hidden in plain sight.
 
-###### *It's a vaccine technology that's so new, no mRNA vaccines have ever been approved by the Food and Drug Administration.Because if the information is secret, how can we trust any medical professional saying the vaccines are safe and effective?*
+###### *"It's a vaccine technology that's so new, no mRNA vaccines have ever been approved by the Food and Drug Administration.Because if the information is secret, how can we trust any medical professional saying the vaccines are safe and effective?"*
 
-###### Because the specific formulations are secret, Liu says, it's not clear exactly why these two mRNA vaccines have different temperature requirements.
+###### "Because the specific formulations are secret, Liu says, it's not clear exactly why these two mRNA vaccines have different temperature requirements."
 
 **The specific formulations are secret.** OK. Let's translate: we keep the formulations secret so we can keep maximizing profit instead of saving human lives by sharing knowledge. That's one possible translation. Here's another one: We're keeping this formulation a secret because we don't want anyone to figure out what the actual plan is.
 
