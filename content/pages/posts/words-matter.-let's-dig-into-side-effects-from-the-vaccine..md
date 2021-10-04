@@ -41,9 +41,9 @@ Many won’t be able to access certain public places and gatherings without a ne
 
 [Source Here](https://www.timesofisrael.com/over-1-million-israelis-who-didnt-get-3rd-dose-to-lose-green-pass-on-sunday/)
 
-> Health Ministry data on Monday showed that **4,710,716 Israelis were vaccinated with two doses six months ago, but only 3,243,641 of them have been administered a booster dose.**
+###### *    Health Ministry data on Monday showed that **4,710,716 Israelis were vaccinated with two doses six months ago, but only    3,243,641 of them have been administered a booster dose.***
 
-> Even subtracting the hundreds of thousands infected with COVID-19 in the past six months, meaning they wouldn’t need the third vaccine dose, **the number of people who will no longer have a so-called Green Pass is over a million.**
+###### *    Even subtracting the hundreds of thousands infected with COVID-19 in the past six months, meaning they wouldn’t need the third             vaccine dose, **the number of people who will no longer have a so-called Green Pass is over a million.***
 
 Booster shots are the canary in the cold mine. It's the data to see where the future **LIES**. because if the booster shots keep falling, as far as I'm concerned, this indicates the serious adverse events are much more prevalent than our fact checkers have told us (I know, DUH).  They needed a decent sized portion of the population to remain unvaccinated, because if everyone was vaccinated, how could they justify a vaccine passport? Why would they need to prove vaccinated status if almost everyone was vaccinated?
 
